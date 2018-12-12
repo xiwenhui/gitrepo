@@ -1,3 +1,3 @@
 touch dev_branch.txt
-add devls!&&&
+add devls!
 touch dev_branch.txt
